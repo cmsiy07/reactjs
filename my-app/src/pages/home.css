@@ -1,0 +1,11 @@
+#social {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+#social i {
+  color: black;
+  font-size: 5em;
+}
